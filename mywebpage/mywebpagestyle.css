@@ -1,0 +1,49 @@
+@media screen { /* Стиль для отображения в браузере */
+BODY {
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612762797_149-p-fon-goluboi-zelenii-gradient-183.jpg);
+     background-color: #84CEEB;
+	 font-family: Arial, Verdana, sans-serif; /* Рубленый шрифт */
+     font-size: 90%;
+     color: #000080; /* Цвет текста */
+    }
+H2 {
+     color: #556b2f; /* Цвет текста */
+     margin: 0; /* Убираем отступы */
+    }
+P {
+     margin-top: 0.5em; /* Отступ сверху */
+    }
+   }
+HEADER {
+	 background: #c1c8e4; /* Цвет фона */
+     border: 2px dashed maroon; /* Рамка вокруг заголовка */
+     color: №000080; /* Цвет текста */
+     padding: 7px; /* Поля вокруг текста */
+	 border-radius: 5px;
+}
+FOOTER {
+	background: #8860D0;
+	color: #FFFFFF;
+	border-radius: 5px;
+}	
+#container {
+ 	 background: #c1c8e4; /* Цвет фона */
+     border: 2px dashed maroon; /* Рамка вокруг заголовка */
+     color: №000080; /* Цвет текста */
+     padding: 20px; /* Поля вокруг текста */
+	width: 1100px; /* Ширина макета */
+	margin: 0 auto; /* Выравнивание по центру */
+	border-radius: 5px;
+}
+#left {
+ width: 400px; /* Ширина левой колонки */
+ float: left;
+ border-radius: 2px;
+}
+#right {
+ width: 300px; /* Ширина правой колонки */
+ float: right;
+}
+#center {
+ margin: 0 300px 0 400px; /* Отступ на ширину левой и правой колонки*/
+}
