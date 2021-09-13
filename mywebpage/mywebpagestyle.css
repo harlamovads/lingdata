@@ -1,24 +1,24 @@
-@media screen { /* Стиль для отображения в браузере */
+@media screen {
 BODY {
 	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612762797_149-p-fon-goluboi-zelenii-gradient-183.jpg);
      background-color: #84CEEB;
-	 font-family: Arial, Verdana, sans-serif; /* Рубленый шрифт */
+	 font-family: Arial, Verdana, sans-serif;
      font-size: 90%;
-     color: #000080; /* Цвет текста */
+     color: #000080;
     }
 H2 {
-     color: #556b2f; /* Цвет текста */
-     margin: 0; /* Убираем отступы */
+     color: #556b2f;
+     margin: 0;
     }
 P {
-     margin-top: 0.5em; /* Отступ сверху */
+     margin-top: 0.5em;
     }
    }
 HEADER {
-	 background: #c1c8e4; /* Цвет фона */
-     border: 2px dashed maroon; /* Рамка вокруг заголовка */
-     color: №000080; /* Цвет текста */
-     padding: 7px; /* Поля вокруг текста */
+	 background: #c1c8e4;
+     border: 2px dashed maroon;
+     color: №000080;
+     padding: 7px;
 	 border-radius: 5px;
 }
 FOOTER {
@@ -27,23 +27,23 @@ FOOTER {
 	border-radius: 5px;
 }	
 #container {
- 	 background: #c1c8e4; /* Цвет фона */
-     border: 2px dashed maroon; /* Рамка вокруг заголовка */
-     color: №000080; /* Цвет текста */
-     padding: 20px; /* Поля вокруг текста */
-	width: 1100px; /* Ширина макета */
-	margin: 0 auto; /* Выравнивание по центру */
+ 	 background: #c1c8e4;
+     border: 2px dashed maroon;
+     color: №000080;
+     padding: 20px;
+	width: 1100px;
+	margin: 0 auto;
 	border-radius: 5px;
 }
 #left {
- width: 400px; /* Ширина левой колонки */
+ width: 400px;
  float: left;
  border-radius: 2px;
 }
 #right {
- width: 300px; /* Ширина правой колонки */
+ width: 300px;
  float: right;
 }
 #center {
- margin: 0 300px 0 400px; /* Отступ на ширину левой и правой колонки*/
+ margin: 0 300px 0 400px;
 }
