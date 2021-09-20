@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T00:15:19+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            EXTRACTED_FROM="file:///C:/Users/dasha/Elaning/karpushova.mp4"
+            MEDIA_URL="file:///C:/Users/dasha/Elaning/karpushova.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./karpushova.wav"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/dasha/Elaning/karpushova.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./karpushova.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7d1c8909-db40-449c-b818-ebb4f2da4171</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">79</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="9646"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12381"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12381"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16037"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="17130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="17537"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="21309"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="21808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="24363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="24897"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="25013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25043"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="25620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="25739"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="28800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29573"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="37475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="38375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="42725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="43575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="47189"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="48428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="49122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="56169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="57226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="63452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="64128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="66386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="66935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="71709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="73031"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="80353"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="81240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="92402"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="92483"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="105516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="106644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="112515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="113289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="118386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="120612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="124365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="124840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="124870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="124880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="125329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="125335"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="125335"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="127094"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="128751"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="129476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="135137"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="135960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="136476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="137528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="139156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="140156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="146313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="148058"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="150666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="150980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="151822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="153116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="160920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="161999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="174810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="174975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="175272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="175767"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="176382"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="176600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="182297"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="182867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="190704"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="191190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="212618"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="harlamovads" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@kag1928f" TIER_ID="text@kag1928f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>это в конце /мая сорок третьего года //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>приезжает машина забирает / на трассу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>#склейка#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>когда мы /пришла машина за нами / э... ещё мы спали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>это наверное пять часов было /надо забрать нас</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>э...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>да /а какие ж мы тут /#нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>а / мачеха / варила / кашицу // э / эту ове... овсёную / овсёную / овсянку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ну то что вот простая / простая вот как только / шелупится и все это ну //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>и то дал этот / ему / батька //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>тогда она говорит ну во //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>это / куратинские там и / все были то оттуда все с... берут полную / полную машину как селедки то забьют вот и все //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>а она говорит ну что ж ты / эи / в общем нечего  мне поесть то ну нечего поесть ну а кашица еще не готова //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ну она сварила эту / кашицу туда //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>а / кувшинчик был литровый / киш... этот кувшинчик / с ручкой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>налила она туда / чем-то тряпкой заторнула / говорит: на тебе хоть / чуть // сырая но хоть ладно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>все так на два человека два человека то а нас дальше дальше мы / что эээ / вдвоем #нрзб# остались // Наташа / Парфенова / вместе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>переезжают нас / в днепр / туда // дают мне / лопаты #нрзб# едут это машины / танки и мы будем с одной стороны закидывать вот так //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ну и мы / ну без конца нет едут и мы все кидаем и это вот оттуда и обратно так кидали кидали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>немецкий // ууу / отсюда от сафонова / с сафонова то #нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>как мчали нас / #нрзб# по этой по трасс... по трассе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>#склейка#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>мост мост мост и бьют / сюда //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>и оно и было то разбито а была / днепр сделали о... переправ... оправу эту сделали / переправу да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>и тут плюх плюх плюх плюх //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>и с это / и лошади едут и / кухня все // а нас туда стороной //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>как начали кидать на нас это // бомбы да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>мы давай дальше / тут / мы дальше мы еще дальше туда / уже наверное с километр мы эээ с... с Наташей с этой уууходим //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>прис... это прискакал к нам / вое... этот... солдат / старый / а может он и не старый он весь / рыжий весь / весь / страшно на е... обрез... / такой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>да // так что говорит / девочки девочки / куда и я туда и... за... вы за мной / я уже знаю где па... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>только бухнут туда / он туда пошли девочки де... мы за ним и... раз другой третий / он доволен //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>мы... все мы дальше эээ а это вот тут / слышу лошади ааа ре... это.. все вот это... где / машина то ээ это и шипит там и все а то с это с... это... военные это.. охают / бьют / после этого //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="harlamovads" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@dss1985f" TIER_ID="text@dss1985f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>утра /да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>вам ведь...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>мост через днепр да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>переправу? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>бомбы? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>грязный? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>оборванный #нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="harlamovads" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@kag1928f"
+        PARTICIPANT="@kag1928f" TIER_ID="transl@kag1928f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>This happened in the late May of the year nineteen forty three. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>A car was arriving regularly and taking people to the road.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>#cut#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>When the car arrived to take us, we were still sleeping.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>It was about 5 o'clock, and we had to be taken away.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Um...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Yes, we are not some kind of #inaudible#.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>The step mother was making some porrige, um... from o... oat, oatmeal.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>It is very simple and it peels easily and so on.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>However, it was given to him by father.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>And then she said: "There you go"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>There were people from Kuratino, and everyone... from that area was there as well, and the car was crowded, it was full to bursting, that's all.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>And then she said: "What's the matter?" Umm... Well, I had nothing to eat, you see, nothing to eat, and the porrige wasn't ready yet.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Well, she finished cooking the porrige and put it there.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>There was a jar for one liter, the j... this jar had a handle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>She poured the porrige into the jar and stuffed it close with something... with a cloth, and said: "There you go, it is still not quite ready, but nevermind".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>And then everyone went like a pair and another pair, and we were farther and farther... and in the end there were two #inaudible# of us left, me... and Natasha Perfenova... together.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>We were moved to the Dnepr, I was given two shovels #inaudible# there were cars and tanks driving by, and we had to dig from one side like this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>And so we... everyone was driving to and fro, and we were digging, and digging and throwing, and throwing... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> And then there was a german... vrooom... from the side of Safonovo... From Safonovo like... #inaudible#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>And we were rushed along the hi... the highway...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>#cut#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>There was a bridge, a bridge, a bridge, and they were aiming there... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>It had been damaged before, and they made a... cross... a passage, yes, a crossing.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>And there was spash, splash, splash, splash...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Horses, the kitchen and everyone was crossing there, and we were on the side.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>And then they started dropping um... bombs, yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>We went farther, the bomb dropped, we went even farther, and I think me and Natasha went like this for over a kilometer.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>And then a war... a soldier came across us, he was old... or he wasn't old... he was ginger... all over... he was scary to l... cut... like this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Yes. And he said: "Girls, girls, follow me, go where I go. I already know where th..."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Right after there was a bang, he was running there: "Girls, come with me, over there..." and we followed him... once, twice, thrice... He was glad.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>We went further, um... and there... I heard horses, screams... aah... and... and so on, where... the car was roaring, and there was hissing, and soldiers were crying... and strikes... right after.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="harlamovads" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@dss1985f"
+        PARTICIPANT="@dss1985f" TIER_ID="transl@dss1985f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Five o'clock in the morning, right?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>You...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>The bridge over the Dnepr, right?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>A crossing?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Bombs?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Was he dirty?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>His clothes were torn...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_4b091496-162c-4cee-80d1-62386d65ab76">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c1c1b3f4-6945-4c52-9ab2-582701aa6fad">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3f110f7a-3435-491c-b037-7f7aa29783d0">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9dc9b4e6-dfa3-49af-90d2-b2c27271b7b0">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cee5c03d-14a6-4686-be66-1ce02c176fef">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_87c0b5db-6b12-4475-89a7-dcfd6a6fbb78">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b943132b-fb4f-43ec-8e58-439ae3d3dd4e">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_99bc17ad-033c-4dd1-8d1a-bf0b7e192ec5">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_23cf3294-78ea-4ceb-ac81-605be61680f9">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9f852b29-29ad-44bb-8dc4-b97b0a30606f">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a2ea29cd-8e11-43d8-99b5-154fe94e06a2">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f7b3398b-b63f-4c0b-8fe4-d1a62e2dc372">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dc99866d-2217-4488-b10f-bfd60667d84f">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_c4d88839-677f-421f-b513-b8fe991b626f">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d686ddb3-3aa8-44c5-85f1-84d13d19be82">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_20dc9d66-619c-4d8c-8f56-29a6c5555edf">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bfe25ff-5e23-4321-a992-8a1bb8cd1044">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
