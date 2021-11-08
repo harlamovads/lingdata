@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T23:24:43+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T23:49:45+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -3057,12 +3057,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3107" ANNOTATION_REF="a2162">
-                <ANNOTATION_VALUE>That was over, but after that another thing chased us.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>That was over, but already... after that that thing was coming there towards us.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5115" ANNOTATION_REF="a5114">
-                <ANNOTATION_VALUE>It was moving to and fro and it was like "tra-ta-ta-ta-ta", "tra-ta-ta-ta".</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But when it was moving backwards, it was like "tra-ta-ta-ta-ta", "tra-ta-ta-ta" towards us.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
